@@ -5,7 +5,7 @@
 # Overview
 This project aims to detect fraudulent transactions in credit card data using machine learning techniques. It includes exploratory data analysis, data wrangling, building machine learning models, and testing the models.
 
-Link to Competition: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+Link to Dataset: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 # Required Libraries
 The following Python packages are required to run this project:
@@ -17,6 +17,7 @@ The following Python packages are required to run this project:
 
 # Repository Files
 - fraud_detection.ipynb: Jupyter notebook containing the project development.
+- Note: Due to its large size, the creditcard.csv file was too heavy to be uploaded directly. You may obtain the dataset from the original source [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 # How to Use
 - Clone the repository to your local machine.
