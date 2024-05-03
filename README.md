@@ -16,11 +16,14 @@ The following Python packages are required to run this project:
 - tensorflow
 
 # Repository Files
+- models: Contains the final models saved as a pickle file.
+- visualizations: Contains graphs and plots.
 - fraud_detection.ipynb: Jupyter notebook containing the project development.
 - Note: Due to its large size, the creditcard.csv file was too heavy to be uploaded directly. You may obtain the dataset from the original source [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 # How to Use
 - Clone the repository to your local machine.
+- Ensure that the raw data is located in the same directory as the notebook.
 - Install the required packages using the provided command.
 - Run the Jupyter Notebook or Python scripts in the respective chapters to execute the code.
 
